@@ -1,1 +1,2 @@
 goal: make game
+- Add Mr. Worldwide
