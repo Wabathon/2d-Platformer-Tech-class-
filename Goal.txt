@@ -1,3 +1,0 @@
-goal: make game
-- Add Mr. Worldwide
-- Make the best story driven game ever (Add at least 1 gay person)
