@@ -1,4 +1,4 @@
-<h6>LE VOYAGEUR VIRTUEL</h6>
+<h1>LE VOYAGEUR VIRTUEL</h1>
 
 Des fois... la réalité n'est pas assez. On veut prendre notre elan et sauter de platforme en platforme, oubliant notre réalité. Pour cet fin, nous vous présentons "Le Voyageur Virtuel".
 
